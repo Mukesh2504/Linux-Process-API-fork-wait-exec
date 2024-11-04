@@ -45,18 +45,8 @@ int main(void)
 	return 0; }
 ```
 
-##OUTPUT
+## OUTPUT
 ![Screenshot 2024-11-04 184030](https://github.com/user-attachments/assets/8e791920-3c59-443e-94d1-61392b9207fb)
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -81,7 +71,7 @@ int main(){
 }
 ```
 
-##OUTPUT
+## OUTPUT
 ![Screenshot 2024-11-04 184100](https://github.com/user-attachments/assets/17b8830b-8fb2-4672-b6e0-1096bc221a86)
 
 
@@ -111,9 +101,8 @@ printf("Running ps with execlp. Now with path specified\n");
         exit(0);}
 ```
 
-##OUTPUT
+## OUTPUT
 ![Screenshot 2024-11-04 184151](https://github.com/user-attachments/assets/4813aa2c-c07e-4ff7-a4c4-729ecc3f7ec7)
-
 
 
 
